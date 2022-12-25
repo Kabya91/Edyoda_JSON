@@ -1,0 +1,39 @@
+{
+  "emp_details": [
+    {
+      "Name": "Amit Roy",
+      "DOB": "18/05/1991",
+      "Height": "160cm",
+      "City": "Kolkata",
+      "State": "West Bengal"
+    },
+    {
+      "Name": "Anjali Kumari",
+      "DOB": "18/05/1998",
+      "Height": "140cm",
+      "City": "Agra",
+      "State": "Uttar Pradesh"
+    },
+    {
+      "Name": "Kritika Tiwari",
+      "DOB": "10/05/1991",
+      "Height": "150cm",
+      "City": "Indore",
+      "State": "Madhya Pradesh"
+    },
+    {
+      "Name": "Sandip Biswas",
+      "DOB": "18/12/1982",
+      "Height": "155cm",
+      "City": "Hyderabad",
+      "State": "Telangana"
+    },
+    {
+      "Name": "Arpitha Chavati",
+      "DOB": "01/08/1989",
+      "Height": "145cm",
+      "City": "Bengaluru",
+      "State": "Karnataka"
+    }
+  ]
+}
